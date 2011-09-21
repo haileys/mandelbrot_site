@@ -1,0 +1,4 @@
+redis: []
+mandelbrot:
+  min: "-2-1i"
+  max: "1+1i"
